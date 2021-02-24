@@ -1,6 +1,6 @@
 <?php
-//by:hhh frist github 2015
-//test: github & jquery.pjax.js  & i am old, doesn't it
+//  by:hhh frist github 2015
+//  test: github & jquery.pjax.js  & i am old, doesn't it
 $a=apache_request_headers();
   if(empty($a["X-PJAX"])){
 
